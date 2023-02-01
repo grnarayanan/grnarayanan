@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **grnarayanan/grnarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ganesan-narayanan-60774a189/)
+
+## Background
+My name is Ganesan Narayanan and I am a senior majoring in Computer Engineering at Columbia University. I am pursuing a Master's degree upon graduation and am interested in embedded software engineering roles. 
+
+## Experience
+I have previous internship experience working as a software engineer at General Motors in the embedded controls group, and at Wells Fargo working on their electronic trading platform.  
+
+You can find my resume [here](https://www.linkedin.com/in/ganesan-narayanan-60774a189/overlay/1635498333476/single-media-viewer/?profileId=ACoAACxtLucBw9kllaWppzOIfLLePsWcAPM_XA4). 
