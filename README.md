@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ganesan-narayanan-60774a189/)
+![](https://komarev.com/ghpvc/?username=grnarayanan)
 
 ## Background
 My name is Ganesan Narayanan and I am a senior majoring in Computer Engineering at Columbia University. I am pursuing a Master's degree upon graduation and am interested in embedded software engineering roles. 
