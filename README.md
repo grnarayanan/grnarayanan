@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ganesan-narayanan-60774a189/)
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ganesan-narayanan)
 ![](https://komarev.com/ghpvc/?username=grnarayanan)
 
 ## Background
-My name is Ganesan Narayanan and I am a senior majoring in Computer Engineering at Columbia University. I am pursuing a Master's degree upon graduation and am interested in embedded software engineering roles. 
+My name is Ganesan Narayanan and I am a Master's student majoring in Computer Engineering at Columbia University. I am pursuing a full-time sofware engineer position after graduating in May 2024. 
 
 ## Experience
-I have previous internship experience working as a software engineer at General Motors in the embedded controls group, and at Wells Fargo working on their electronic trading platform.  
-
-You can find my resume [here](https://www.linkedin.com/in/ganesan-narayanan-60774a189/overlay/1635498333476/single-media-viewer/?profileId=ACoAACxtLucBw9kllaWppzOIfLLePsWcAPM_XA4). 
+I have previous internship experience working as a software engineer at Garmin, General Motors, and at Wells Fargo.  
